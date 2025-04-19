@@ -89,7 +89,7 @@ Now visit `http://127.0.0.1:5000` in your browser to start detecting phishing we
 
 ## 👩‍💻 Authors
 
-- **Deeksha R Kunder**
 - **Chinmayee Bhat**
+- **Deeksha R Kunder**
 
 ---
