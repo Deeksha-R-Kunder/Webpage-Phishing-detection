@@ -27,7 +27,7 @@
 2. The system extracts a comprehensive set of **88 features** from the URL.
 3. These features are passed to a **pre-trained Random Forest model**.
 4. The result is displayed on-screen, indicating if the URL is:
-   - ✅ Safe
+   - ✅ Legitimate
    - ❌ Phishing
 
 ---
